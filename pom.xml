@@ -9,6 +9,9 @@
   <version>1.0-SNAPSHOT</version>
   <name>webapp</name>
   <description>webapp.</description>
+=======
+  <description>webapp</description>
+>>>>>>> f3ffd00636d9f02b9a6a568da5a1c3e4d13d9d91
   <url>http://www.example.com</url>
 
   <properties>
